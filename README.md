@@ -1,6 +1,6 @@
 ## Análisis Comparativo de Algoritmos de Ordenación
 
- En el marco de la asignatura **Algoritmia y Complejidad**, perteneciente al **Grado en Ingeniería Informática de la Universidad Internacional de La Rioja (UNIR)**, se llevó a cabo una actividad práctica para la **implementación y evaluación de los algoritmos de ordenación más relevantes**.
+ En el marco de la asignatura **Algoritmia y Complejidad**, perteneciente al **Grado en Ingeniería Informática de la Universidad Internacional de La Rioja (UNIR)**, lleve a cabo una actividad práctica para la **implementación y evaluación de los algoritmos de ordenación más relevantes**.
  
  - Ordenación por burbuja
  - Ordenación por inserción
