@@ -7,6 +7,10 @@
  - Ordenación por selección
  - Merge sort
  - Quick sort
+
+## **Metodología y Objetivos**
+
+La práctica consistió, en primer lugar, en el **procesamiento de un archivo CSV** que contenía información sobre **planes de descuento en gasolineras españolas**. Específicamente, se trabajó con la información relativa a la **‘Cifra de descuento’** y, en concreto, aquellos valores **medidos en céntimos de euro por litro**.
    
 Una vez obtenidos los datos, estos se utilizaron como entrada para cada uno de los algoritmos de ordenación con el fin de realizar una comparativa exhaustiva basada en los siguientes parámetros:
 
